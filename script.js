@@ -4,7 +4,7 @@ const products = [
         id: 1,
         name: "Luffy Sunset Oversized Tee",
         price: 1500,
-        image: "shirt1.jpg"
+        image: "images/shirt1.jpg"
     },
 
 ];
